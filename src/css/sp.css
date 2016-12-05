@@ -1,0 +1,11 @@
+#icon1{
+    background:url("../images/picture1.png");
+    border: 0px;
+}
+
+#icon2{
+    width:300px;
+    height:400px;
+    background: url("../images/picture2.png")no-repeat;
+    border:0px;
+}
